@@ -28,4 +28,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sahilbansal123-lang&show_icons=true&locale=en&layout=compact" alt="sahilbansal123-lang" width="500"/></p>
 
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=sahilbansal123-lang&" alt="sahilbansal123-lang" width="450" /></p>
+<!-- <p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=sahilbansal123-lang&" alt="sahilbansal123-lang" width="450" /></p>
+ -->
