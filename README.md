@@ -30,5 +30,6 @@
 
 <!-- <p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=sahilbansal123-lang&" alt="sahilbansal123-lang" width="450" /></p>
  -->
+ <script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
 <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="sahil-bansal-087778185" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/sahil-bansal-087778185?trk=profile-badge">Sahil Bansal</a></div>
               
